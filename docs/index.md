@@ -14,7 +14,7 @@ election. The source code and instructions for running it are available
 
 ### The raw data
 
-These reports are composed by the [SenateDB tool](https://github.com/tmccarthy/SenateDB/tree/v0.4.1) from raw data made 
+These reports are composed by the [SenateDB tool](https://github.com/tmccarthy/SenateDB/tree/master) from raw data made 
 available on [the AEC's website](http://results.aec.gov.au/20499/Website/SenateDownloadsMenu-20499-Csv.htm). In 
 particular, they rely on the large csv files on that website containing the preferences on every formal ballot paper at 
 the 2016 federal election.
